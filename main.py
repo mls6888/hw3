@@ -1,3 +1,8 @@
+# Author: Michael Sullivan
+#Section:11r
+
+
+
 def digit_sum( n ): 
     if n == 0: 
         return n
